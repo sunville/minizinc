@@ -1,0 +1,2 @@
+# minizinc
+coursera exercise
